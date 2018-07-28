@@ -1,0 +1,22 @@
+{
+  "name": "strangler",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.4.3",
+    "angular-resource": "^1.4.3",
+    "angular-route": "^ 1.4.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "react2angular": "^4.0.4",
+    "todomvc-app-css": "^2.1.0",
+    "todomvc-common": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
